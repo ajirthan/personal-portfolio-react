@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-react/static/css/main.cb3ae43b.css",
-    "main.js": "/personal-portfolio-react/static/js/main.79937cce.js",
+    "main.css": "/personal-portfolio-react/static/css/main.353d9184.css",
+    "main.js": "/personal-portfolio-react/static/js/main.e76dad46.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio-react/static/js/787.fb771931.chunk.js",
+    "static/media/ajirthan-profile.png": "/personal-portfolio-react/static/media/ajirthan-profile.cbda416c0f1775e33d7b.png",
     "static/media/yarl-it-hub-logo.png": "/personal-portfolio-react/static/media/yarl-it-hub-logo.81db16c32e7a05320377.png",
     "static/media/uki-logo.png": "/personal-portfolio-react/static/media/uki-logo.42b49f3b43fce7c9b177.png",
     "index.html": "/personal-portfolio-react/index.html",
     "static/media/github-logo.svg": "/personal-portfolio-react/static/media/github-logo.04be58c17b3d5e9744424d414240dd85.svg",
     "static/media/facebook-logo.svg": "/personal-portfolio-react/static/media/facebook-logo.2dd5bdd216194f5edc8cf589f0378383.svg",
-    "main.cb3ae43b.css.map": "/personal-portfolio-react/static/css/main.cb3ae43b.css.map",
-    "main.79937cce.js.map": "/personal-portfolio-react/static/js/main.79937cce.js.map",
+    "main.353d9184.css.map": "/personal-portfolio-react/static/css/main.353d9184.css.map",
+    "main.e76dad46.js.map": "/personal-portfolio-react/static/js/main.e76dad46.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio-react/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb3ae43b.css",
-    "static/js/main.79937cce.js"
+    "static/css/main.353d9184.css",
+    "static/js/main.e76dad46.js"
   ]
 }
