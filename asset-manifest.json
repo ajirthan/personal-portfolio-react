@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ajirthan/personal-portfolio-react/static/css/main.073c9b0a.css",
-    "main.js": "/ajirthan/personal-portfolio-react/static/js/main.a57e9307.js",
-    "static/js/787.fb771931.chunk.js": "/ajirthan/personal-portfolio-react/static/js/787.fb771931.chunk.js",
-    "static/media/logo.svg": "/ajirthan/personal-portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ajirthan/personal-portfolio-react/index.html",
-    "main.073c9b0a.css.map": "/ajirthan/personal-portfolio-react/static/css/main.073c9b0a.css.map",
-    "main.a57e9307.js.map": "/ajirthan/personal-portfolio-react/static/js/main.a57e9307.js.map",
-    "787.fb771931.chunk.js.map": "/ajirthan/personal-portfolio-react/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/personal-portfolio-react/static/css/main.073c9b0a.css",
+    "main.js": "/personal-portfolio-react/static/js/main.7277e203.js",
+    "static/js/787.fb771931.chunk.js": "/personal-portfolio-react/static/js/787.fb771931.chunk.js",
+    "static/media/logo.svg": "/personal-portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/personal-portfolio-react/index.html",
+    "main.073c9b0a.css.map": "/personal-portfolio-react/static/css/main.073c9b0a.css.map",
+    "main.7277e203.js.map": "/personal-portfolio-react/static/js/main.7277e203.js.map",
+    "787.fb771931.chunk.js.map": "/personal-portfolio-react/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a57e9307.js"
+    "static/js/main.7277e203.js"
   ]
 }
