@@ -1,0 +1,26 @@
+{
+  "Biography": {
+    "bio1": "My name is Ajirthan B. ",
+    "bio2": "I am a Full Stack Developer graduating from ",
+    "bio3": "Uki Coding School ",
+    "bio4": "this summer (Uki Cohort 7). ",
+    "bio5": "I am familiar with the MERN framework which includes ",
+    "bio6": "MongoDB, Express, React JS and Node JS",
+    "bio7": "I am looking to join an interesting position where I can apply my skills and take them to the next level. ",
+    "bio8": "You can reach out via ",
+    "bio9": "",
+    "bio10": "",
+    "email": "email."
+  },
+  "Hero": {
+    "title": "Ajirthan B.",
+    "subtitle": {
+      "fullStackDev": "Full Stack Developer",
+      "uiuxDesigner": "UI/UX Designer"
+    }
+  },
+  "LanguageSwitch": {
+    "english": "English",
+    "tamil": "Tamil"
+  }
+}

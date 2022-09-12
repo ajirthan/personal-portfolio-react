@@ -1,0 +1,31 @@
+{
+  "console": {
+    "prefix": "console",
+    "body": "console.log('$1', $1);$2"
+  },
+  "reactIndex": {
+    "prefix": "reactIndex",
+    "body": ["import $1 from './$1'", "", "export default $1", ""]
+  },
+  "reactComponent": {
+    "prefix": "reactComponent",
+    "body": [
+      "import clsx from 'clsx'",
+      "",
+      "export interface Props {",
+      "  className?: string",
+      "}",
+      "",
+      "const $1 = ({ className }: Props) => {",
+      "  return (",
+      "    <div className={clsx(className)}>",
+      "      <span>$1</span>",
+      "    </div>",
+      "  )",
+      "}",
+      "",
+      "export default $1",
+      ""
+    ]
+  }
+}
